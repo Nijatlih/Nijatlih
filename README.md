@@ -6,7 +6,7 @@ serving, a FastAPI + Next.js app, and the production plumbing around it.
 **Stack:** FastAPI · async SQLAlchemy · Spring Boot 3.5 / Java 21 · MLflow ·
 Prefect · Docker · GitHub Actions
 
-**Shipped, not just started:** migrations contract-tested against a live
+**Built to ship:** migrations contract-tested against a live
 database · 1,600+ test CI gate · migrate-before-serve deploy with
 auto-rollback
 
@@ -16,4 +16,4 @@ through the rest.
 
 ---
 
-📧 108176479+Nijatlih@users.noreply.github.com · Deutsch & English
+Deutsch & English
