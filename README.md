@@ -1,4 +1,4 @@
-### Full-stack AI engineer · Bremen, Germany
+### Full-stack AI engineer · Germany
 
 Building an AI music-generation product end to end, mostly solo — model
 serving, a FastAPI + Next.js app, and the production plumbing around it.
