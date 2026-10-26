@@ -14,6 +14,10 @@ Most of my 2026 code sits in private repos while the products are
 pre-launch — the pinned repos are what I can show openly, happy to walk
 through the rest.
 
+**Open code:** [Personal-Time_Learning-Tracker](https://github.com/Nijatlih/Personal-Time_Learning-Tracker)
+— Spring Boot 3.5 + React 19 + PostgreSQL, workspace-level multi-tenancy,
+Flyway migrations and Testcontainers integration tests.
+
 ---
 
 Deutsch & English
